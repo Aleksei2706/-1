@@ -1,0 +1,10 @@
+.input input{
+    border-radius: 5px;
+    margin: 10px;
+    height: 20px;
+}
+.input span {
+    display: flex;
+    text-align: center;
+    margin-left: 50px;
+}
